@@ -1,3 +1,4 @@
+import nltk
 import streamlit as st
 from nltk.sentiment import SentimentIntensityAnalyzer
 
