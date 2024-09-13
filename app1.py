@@ -1,4 +1,4 @@
-!pip install nltk
+pip install nltk
 import nltk
 import streamlit as st
 from nltk.sentiment import SentimentIntensityAnalyzer
